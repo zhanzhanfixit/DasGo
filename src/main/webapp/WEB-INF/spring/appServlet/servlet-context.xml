@@ -23,8 +23,8 @@
   <bean class="org.apache.commons.dbcp.BasicDataSource" id="dataSource">
     <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
     <property name="url" value="jdbc:mysql://localhost:3306/dasgo?zeroDateTimeBehavior=convertToNull"/>
-    <property name="username" value="root"/>
-    <property name="password" value="zcshr810913"/>
+    <property name="username" value="adam2"/>
+    <property name="password" value="adam2"/>
   </bean>
    
   <!-- EntityManagerFactory -->
